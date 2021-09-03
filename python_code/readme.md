@@ -8,3 +8,5 @@ Note that this has only been tested in Python 3 with OpenSesame, but it should w
 If using with OpenSesame, copy all files in this folder to the OpenSesame root directory, and then call them from your OpenSesame experiment file.
 
 To use with other Python-based systems, copy all files in this folder to either the Python 'site-packages' directory or to the same directory as the Python executable.
+
+:Thanks to Neale Samways, BCU, for collating, editing, and testing these files.
